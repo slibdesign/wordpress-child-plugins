@@ -23,15 +23,18 @@ Text Domain:       wordpress-seo-child
 Requires Plugins:  wordpress-seo
 
  */
- 
- ## Source
- 
- [childpluginwp.com](https://childpluginwp.com)
 
- ## API Score
-
+ ## Solution Demand Calculation
+ 
+ (API Score) Calculation per plugin
+ 
  = total of resolved threads / total of support threads * 100. Calculated from wordpress.org/plugin data January 2025
 
- Visible on the website
+ ## Source
+
+ ![Website Preview](https://web.archive.org/web/20251129234625/http://web.archive.org/screenshot/https://childpluginwp.com/)
+  
+ Source: [childpluginwp.com](https://childpluginwp.com)
+
 
  
