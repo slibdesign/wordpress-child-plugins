@@ -1,1 +1,1 @@
-A framework for WordPress theme modification
+A framework for WordPress plugin modification
