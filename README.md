@@ -36,5 +36,6 @@ Requires Plugins:  wordpress-seo
   
  Source: [childpluginwp.com](https://childpluginwp.com)
 
+[Help documentation](https://github.com/slibdesign/wordpress-child-plugins/blob/main/wordpress.org-child-plugin-documentation.md)
 
  
